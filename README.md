@@ -1,53 +1,73 @@
-## Hi there 👋, I'm Akash Chaudhary  
+## 👋 Hi, I'm Akash Chaudhary  
 
 🎓 **B.Tech (Information Technology)** | 💻 **Aspiring Full Stack Developer**  
-🚀 Passionate about **Web Development**, **AI Integration**, and **Innovation**
+🌐 Passionate about building impactful digital solutions through technology  
 
 ---
 
-### 💡 About Me
-- 🔭 I’m currently working on improving my skills in **Full Stack Development**  
-- 🌱 I’m currently learning **React.js**, **Node.js**, and **Firebase**  
-- 👯 I’m looking to collaborate on **open-source** and **web app** projects  
-- 💬 Ask me about **MERN Stack**, **APIs**, or **UI/UX design**  
-- ⚡ Fun fact: I love turning ideas into working digital products  
+### 👨‍💻 About Me  
+I’m a dedicated and motivated Information Technology undergraduate with a strong passion for **Full Stack Web Development** and **Problem Solving**. I enjoy learning emerging technologies, developing user-focused applications, and continuously improving my coding proficiency through competitive programming.  
+
+- 🔭 Currently enhancing my expertise in **MERN Stack Development**  
+- 🌱 Learning advanced **React.js**, **Node.js**, and **Firebase** integrations  
+- 💡 Interested in **AI-driven web apps** and **software product development**  
+- 🤝 Open to collaborating on **innovative open-source projects**  
+- ⚡ Motto: *“Write clean code. Build creative solutions.”*  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills  
+
 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
 **Backend:** Node.js, Express.js, Firebase  
 **Database:** MongoDB, MySQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel  
+**Version Control & Tools:** Git, GitHub, VS Code, Postman, Vercel  
 
 ---
 
-### 📊 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash15072004&show_icons=true&theme=tokyonight)
+### 📈 GitHub Analytics  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash15072004&layout=compact&theme=tokyonight)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash15072004&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash15072004&layout=compact&theme=tokyonight)  
 
 ---
 
-### 🌍 Connect with Me
+### 🧠 Competitive Programming  
+
+I actively participate in coding contests to strengthen my logic, algorithms, and problem-solving skills.  
+
 <p align="left">
-<a href="mailto:akashchaudhary5100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="hhttps://www.linkedin.com/in/akash-chaudhary-80046023b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/akash2413/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/akash2413"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/__akash24_13"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/2201640130010_IT"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
+
+---
+
+### 🏆 Highlights & Achievements  
+
+- 🧩 Solved **250+ coding problems** across major competitive platforms  
+- 💻 Developed and deployed multiple **React-based web applications**  
+- 🚀 Hands-on experience in deploying projects using **Firebase** and **Vercel**  
+- 🏅 Active participant in **hackathons** and **technical competitions**  
+- 📚 Continuously learning to stay updated with industry trends  
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="left">
+<a href="mailto:akashchaudhary5100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akashchaudhary04/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/akash15072004"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🏆 Achievements
-- 🌟 Built multiple **React-based web applications**
-- 🚀 Deployed live projects using **Firebase** and **Vercel**
-- 💡 Participated in hackathons and college-level tech events
+### 💬 Quote  
+> *“Strive not to be a success, but rather to be of value.” — Albert Einstein*  
 
 ---
 
-### ⚙️ Fun Zone
-> “Code. Create. Conquer. Every bug is just a step closer to brilliance.” 😄  
-
----
-
-⭐️ From [akash15072004](https://github.com/akash15072004)
+⭐ **From [akash15072004](https://github.com/akash15072004)**
