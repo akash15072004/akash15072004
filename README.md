@@ -47,7 +47,7 @@ Scalable MERN architecture
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akash15072004&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash15072004&layout=compact&theme=tokyonight" height="170"/> </p>
 🧠 Competitive Programming & Problem Solving
-✅ Solved 250+ DSA problems
+✅ Solved 300+ DSA problems
 
 💡 Strong grasp of arrays, strings, recursion, trees
 
