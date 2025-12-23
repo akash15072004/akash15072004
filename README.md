@@ -1,73 +1,71 @@
-## 👋 Hi, I'm Akash Chaudhary  
+<div align="center">
+👋 Hi, I'm Akash Chaudhary
+<!-- Animated Typing Text --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Final+Year+B.Tech+IT+Student;Full+Stack+Developer+%7C+MERN+Stack;AI-Driven+Web+Application+Enthusiast;Open+to+Internships+%26+Full-Time+Roles" />
+🎓 B.Tech – Information Technology (Final Year)
+💻 Full Stack Developer | MERN Stack | AI-Curious
+🚀 Actively seeking Internships & Off-Campus Opportunities
 
-🎓 **B.Tech (Information Technology)** | 💻 **Aspiring Full Stack Developer**  
-🌐 Passionate about building impactful digital solutions through technology  
+</div>
+🚀 About Me
+I am a final-year B.Tech IT student with hands-on experience in Full Stack Web Development and a growing interest in AI-powered applications. I enjoy building scalable, real-world products, solving problems using data structures, and contributing to meaningful software projects.
 
----
+🔭 Building production-ready MERN applications
 
-### 👨‍💻 About Me  
-I’m a dedicated and motivated Information Technology undergraduate with a strong passion for **Full Stack Web Development** and **Problem Solving**. I enjoy learning emerging technologies, developing user-focused applications, and continuously improving my coding proficiency through competitive programming.  
+🌱 Exploring AI integrations, APIs, and cloud deployment
 
-- 🔭 Currently enhancing my expertise in **MERN Stack Development**  
-- 🌱 Learning advanced **React.js**, **Node.js**, and **Firebase** integrations  
-- 💡 Interested in **AI-driven web apps** and **software product development**  
-- 🤝 Open to collaborating on **innovative open-source projects**  
-- ⚡ Motto: *“Write clean code. Build creative solutions.”*  
+🧠 Strong foundation in DSA & problem-solving
 
----
+🤝 Open to internships, full-time, and remote roles
 
-### 🛠️ Technical Skills  
+⚡ Clean code • Scalable systems • Real impact
 
-**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, Firebase  
-**Database:** MongoDB, MySQL  
-**Version Control & Tools:** Git, GitHub, VS Code, Postman, Vercel  
+🛠️ Tech Stack
+🌐 Frontend
+HTML CSS JavaScript React.js Tailwind CSS
 
----
+⚙️ Backend
+Node.js Express.js Firebase
 
-### 📈 GitHub Analytics  
+🗄️ Databases
+MongoDB MySQL
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash15072004&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash15072004&layout=compact&theme=tokyonight)  
+☁️ Tools & Platforms
+Git GitHub VS Code Postman Vercel Firebase
 
----
+🚀 Featured Projects (Showcase)
+🔹 AI Agro Farming System
+Tech: React.js, Node.js, MongoDB, AI APIs
 
-### 🧠 Competitive Programming  
+AI-based crop recommendation & yield insights
 
-I actively participate in coding contests to strengthen my logic, algorithms, and problem-solving skills.  
+Weather-driven decision support for farmers
 
-<p align="left">
-<a href="https://leetcode.com/u/akash2413/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/akash2413"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/__akash24_13"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/2201640130010_IT"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+Scalable MERN architecture
 
----
 
-### 🏆 Highlights & Achievements  
 
-- 🧩 Solved **250+ coding problems** across major competitive platforms  
-- 💻 Developed and deployed multiple **React-based web applications**  
-- 🚀 Hands-on experience in deploying projects using **Firebase** and **Vercel**  
-- 🏅 Active participant in **hackathons** and **technical competitions**  
-- 📚 Continuously learning to stay updated with industry trends  
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akash15072004&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash15072004&layout=compact&theme=tokyonight" height="170"/> </p>
+🧠 Competitive Programming & Problem Solving
+✅ Solved 250+ DSA problems
 
----
+💡 Strong grasp of arrays, strings, recursion, trees
 
-### 🌐 Connect With Me  
+🏅 Active in coding contests & practice platforms
 
-<p align="left">
-<a href="mailto:akashchaudhary5100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/akash-chaudhary-80046023b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/akash15072004"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<p align="left"> <a href="https://leetcode.com/u/akash2413/"><img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/></a> <a href="https://www.codechef.com/users/akash2413"><img src="https://img.shields.io/badge/CodeChef-Active-brown?style=for-the-badge&logo=codechef"/></a> <a href="https://codeforces.com/profile/__akash24_13"><img src="https://img.shields.io/badge/Codeforces-Participant-blue?style=for-the-badge&logo=codeforces"/></a> <a href="https://www.hackerrank.com/profile/2201640130010_IT"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-green?style=for-the-badge&logo=hackerrank"/></a> </p>
+🏆 Achievements
+💻 Built & deployed multiple Full Stack projects
 
----
+🚀 Hands-on experience with cloud deployment
 
-### 💬 Quote  
-> *“Strive not to be a success, but rather to be of value.” — Albert Einstein*  
+🏅 Participated in hackathons & coding competitions
 
----
+📚 Continuous learner of AI & Web technologies
 
-⭐ **From [akash15072004](https://github.com/akash15072004)**
+🌐 Connect With Me
+<p align="left"> <a href="mailto:akashchaudhary5100@gmail.com"><img src="https://img.shields.io/badge/Email-Akash-red?style=for-the-badge&logo=gmail"/></a> <a href="https://www.linkedin.com/in/akash-chaudhary-80046023b"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Chaudhary-blue?style=for-the-badge&logo=linkedin"/></a> <a href="https://github.com/akash15072004"><img src="https://img.shields.io/badge/GitHub-akash15072004-black?style=for-the-badge&logo=github"/></a> </p>
+💬 Quote
+“Strive not to be a success, but rather to be of value.” — Albert Einstein
+
+⭐ From akash15072004
