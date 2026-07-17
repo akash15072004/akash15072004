@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&width=900&lines=Final+Year+B.Tech+Information+Technology;Full+Stack+Developer+%7C+MERN+Stack;Interest+in+AI-Driven+Web+Applications;Seeking+Internships+and+Entry-Level+Roles" />
 
-🎓 **B.Tech – Information Technology (Final Year)**  
+🎓 **B.Tech – Information Technology**  
 💻 **Full Stack Developer (MERN Stack)**  
 📍 Open to **Internships | Entry-Level | Off-Campus Opportunities**
 
